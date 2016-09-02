@@ -1,0 +1,4 @@
+[submodule "dist"]
+	path = dist
+	url = git@github.com:gmcgibbon/static-site-generator-slides.git
+	branch = gh-pages
