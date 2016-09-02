@@ -1,0 +1,22 @@
+{
+  "name": "slides",
+  "description": "Slideshow",
+  "main": "index.js",
+  "authors": [
+    "Gannon McGibbon"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "reveal.js": "^3.3.0",
+    "highlightjs": "^9.5.0"
+  }
+}
