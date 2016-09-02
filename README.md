@@ -1,4 +1,4 @@
-# Slideshow
+# Static Website Generator Slideshow
 
 ## Usage
 

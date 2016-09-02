@@ -1,7 +1,7 @@
 {
-  "name": "slides",
+  "name": "static-site-generator-slides",
   "version": "1.0.0",
-  "description": "Slideshow",
+  "description": "Static Site Generator Slideshow",
   "main": "index.js",
   "scripts": {
     "test": "coffeelint ./"

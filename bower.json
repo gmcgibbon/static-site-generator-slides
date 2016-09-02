@@ -1,6 +1,6 @@
 {
-  "name": "slides",
-  "description": "Slideshow",
+  "name": "static-site-generator-slides",
+  "description": "Static Site Generator Slideshow",
   "main": "index.js",
   "authors": [
     "Gannon McGibbon"
