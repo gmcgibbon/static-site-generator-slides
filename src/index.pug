@@ -7,7 +7,7 @@ html(lang='en')
     script(src='vendor/reveal.js/js/reveal.js')
     script(src='slideshow.js')
     link(rel='stylesheet' href='vendor/reveal.js/css/reveal.css')
-    link(rel='stylesheet' href='vendor/reveal.js/css/theme/black.css')
+    link(rel='stylesheet' href='vendor/reveal.js/css/theme/moon.css')
     link(rel='stylesheet' href='vendor/highlightjs/styles/monokai-sublime.css')
     link(rel='stylesheet' href='slideshow.css')
   body
@@ -16,5 +16,8 @@ html(lang='en')
         each slide in slides
           section(
             data-markdown=slide
+            data-separator='^Horizontal:'
+            data-separator-vertical='^Vertical:'
+            data-separator-notes='^Notes:'
             data-charset='utf-8'
           )
